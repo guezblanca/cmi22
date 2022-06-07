@@ -43,20 +43,21 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 ### 2.1 Storyboard: 
 
 
+![Ilustración_sin_título(4)](https://user-images.githubusercontent.com/106732603/172454829-821dafc7-ea4b-46e2-be27-5d1105474fb4.jpg)
 
-(narra brevemente lo que sucede en tu proyecto, puedes usar 3-4 imágenes de apoyo)
+![Ilustración_sin_título(3)](https://user-images.githubusercontent.com/106732603/172454888-9d25ca02-fb43-4ee6-9f24-c0a32be019ec.jpg)
+
+![Ilustración_sin_título(2)](https://user-images.githubusercontent.com/106732603/172454902-561a7d0c-0e2f-40d2-8e3f-aaf98253fdd7.jpg)
+
+![Ilustración_sin_título(1)](https://user-images.githubusercontent.com/106732603/172454922-e47aeb17-0f28-4990-966d-376a7026c99a.jpg)
+
+![Ilustración_sin_título](https://user-images.githubusercontent.com/106732603/172454947-4a8947bb-7265-4f3e-9002-9536393d119c.jpg)
 
 
 
 ### 2.2. Esquema de navegación 
 
-
-
-
 ![Untitled Diagram drawio](https://user-images.githubusercontent.com/106732603/172446359-e78196f5-ad46-4dfb-8c72-c8bfeceb5a99.png)
-
-
-
 
 
 # 3. Metodología
