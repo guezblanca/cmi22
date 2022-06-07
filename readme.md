@@ -4,7 +4,7 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-# 1 Datos 
+#  Datos 
 
 
 
@@ -18,27 +18,25 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego infantil
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
-
 **Resolución:** 800x600px tamaño fijo
 
-**Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
+**Probado en:**  Mozilla Firefox, Microsoft Edge.
 
 **Tamaño proyecto:** 10 MB
 
-**Licencia** Este proyecto tiene una Licencia CC Reconocimiento Compartir igual (CC BY-SA)
+**Licencia** Este proyecto tiene una Licencia CC Atribución-NoComercial-CompartirIgual (CC BY-NC-SA)
 
 **Fecha** : 07/6/2022
 
-**Medios** (donde se tiene presencia relacionada):
+**Logotipo**
 
-- Github:
+![lgoo nuevo github](https://user-images.githubusercontent.com/106732603/172433256-f44957de-5705-4ffe-9a29-63992be28b0f.png)
 
 
+**Medios**
 
-![girl](https://github.com/mgea/cmi20/blob/master/WalkingGirl_front01.png)
+- Github: guezblanca.github.io 
+
 
 # 2. Memoria del proyecto 
 
@@ -70,22 +68,17 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
 
 
 **Motivación de la propuesta** 
 
-Este  proyecto es interesante porque ... 
+Este  proyecto es interesante porque ha sido una manera de iniciarme en el mundo de la programación y el diseño digital, algo que no tenía pensado explorar nunca.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+- Orientado a un público infantil, de 5 a 10 años aproximadamente.
 
 
 
@@ -95,25 +88,24 @@ Este  proyecto es interesante porque ...
 
 (qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
 
-- Juego. 
-- Video 
-- Instrucciones y ayuda al usuario 
-- Menús y elementos de navegación (botones)
-- etc.
+- El juego consiste en un quizz simple sin tiempo mínimo.
+- La galería consiste en la presentación de los diferentes personajes con sus respectivos "habitats".
+- El juego presenta una interfaz muy fácil de entender, donde los botones te indican qué hacer.
+- El menú plantea las opciones de ver la introducción una vez más, la galería, los créditos y por último, jugar al juego.
+
 
 
 
 ### Etapa 3: Problemas identificados
 
-(que consideras que no  funciona correctamente y por qué )
-
+En teoría todo funciona bien y cumple su función, podría ir más rápido y fluido.
 
 
 # 4. Conclusiones 
 
 (explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
-
+Como primer acercamiento a la programación me parece que es aceptable como trabajo. Podrían mejorarse aspectos técnicos y de interfaz de usuario al igual que la complicación del propio juego, pero la verdad es que ha habido partes que me costba mucho entender y realizar, la parte de programación más elaborada por ejemplo. Así estoy contenta por haberlo probado e intentado y logrado haber sacado algo, a pesar de que no es lo mío.
 
 
 
@@ -121,25 +113,20 @@ Este  proyecto es interesante porque ...
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
 
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica: Es recogida de un repositorio libre del que no me acuerdo, al descargarlo en clase no tengo el rastro ni nombre de la música.
+
+* Tipografía: LucidaConsole
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+- Adobe Photoshop 2020
+- ProCreate
+
+![88x31](https://user-images.githubusercontent.com/106732603/172443802-ee96273e-ea48-468f-b992-15ec1b523ee7.png)
 
 
-
-(imagen de la licencia, copiar y pegar aquí la correcta)
-
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2022
