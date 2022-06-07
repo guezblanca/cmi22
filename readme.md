@@ -52,9 +52,8 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
 
-
+![Untitled Diagram drawio](https://user-images.githubusercontent.com/106732603/172446359-e78196f5-ad46-4dfb-8c72-c8bfeceb5a99.png)
 
 
 
@@ -86,7 +85,7 @@ Este  proyecto es interesante porque ha sido una manera de iniciarme en el mundo
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
+
 
 - El juego consiste en un quizz simple sin tiempo mínimo.
 - La galería consiste en la presentación de los diferentes personajes con sus respectivos "habitats".
@@ -103,7 +102,6 @@ En teoría todo funciona bien y cumple su función, podría ir más rápido y fl
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
 
 Como primer acercamiento a la programación me parece que es aceptable como trabajo. Podrían mejorarse aspectos técnicos y de interfaz de usuario al igual que la complicación del propio juego, pero la verdad es que ha habido partes que me costba mucho entender y realizar, la parte de programación más elaborada por ejemplo. Así estoy contenta por haberlo probado e intentado y logrado haber sacado algo, a pesar de que no es lo mío.
 
@@ -119,6 +117,8 @@ Como primer acercamiento a la programación me parece que es aceptable como trab
 * Musica: Es recogida de un repositorio libre del que no me acuerdo, al descargarlo en clase no tengo el rastro ni nombre de la música.
 
 * Tipografía: LucidaConsole
+
+* Imágenes: Diseñadas y creadas por la autora.
 
 **Herramientas utilizadas**
 
